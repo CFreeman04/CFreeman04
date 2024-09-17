@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Charlie Freeman
 
-**Welcome to my GitHub!** I'm an accomplished Software Developer with over 22 years of experiences in IT operations, primarily in the military sector.  My passion for technology and innovationd rives me to continuousl develop robust, high-performance software solutions.  Here, you'll find a diverse range of projects that showcase my experiece in cloud application development, data analysis and more.
+**Welcome to my GitHub!** I'm an accomplished Software Developer with over 22 years of experiences in IT operations, primarily in the military sector.  My passion for technology and innovation drives me to continuously develop robust, high-performance software solutions.  Here, you'll find a diverse range of projects that showcase my experience in cloud application development, data analysis and more.
 
 
 ## 🛠️ Technologies & Tools
