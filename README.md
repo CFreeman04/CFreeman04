@@ -16,7 +16,7 @@
 
 
 ## 🏆 Professional Experience
-* **Student | Microsoft Sowftware and Systems Academy (2024 - Present)**
+* **Student | Microsoft Sowftware and Systems Academy (Jul 2024 - Nov 2024)**
 * **Software Developer | United States Air Force (2002 - 2024)**
 
 
